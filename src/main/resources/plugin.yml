@@ -1,0 +1,7 @@
+name: Gzplugin
+version: ${project.version}
+main: pl.gz.gzplugin.Gzplugin
+api-version: 1.16
+loadbefore: [ ChatUtilsAPI ]
+authors: [ Dawcioo0055, grzmot19 ]
+description: Plugin
